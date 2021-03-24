@@ -1,0 +1,44 @@
+body
+{
+    background-color: yellowgreen;
+    font-family: 'Indie Flower', cursive;
+}
+.text_images_and_results
+{
+    background-color: turquoise;
+    width: 300px;
+    height: 250px;
+    font-size: 35px;
+border-radius: 25%;
+    box-shadow: 10px 5px 25px turquoise ;
+    margin: 25px;
+}
+hr
+{
+
+    color: green;
+}
+h4{
+    font-size: 35px;
+    margin-left: 80px;
+}
+h5{
+    font-size: 20px;
+    
+}
+.img-responsive
+{
+    width: 55px;
+    height: 55px;
+    margin-left: 100px;
+}
+.text_images_and_results_one
+{
+    background-color: turquoise;
+    width: 300px;
+    height: 300px;
+    font-size: 35px;
+border-radius: 25%;
+    box-shadow: 10px 5px 25px turquoise ;
+    margin: 25px;
+}
