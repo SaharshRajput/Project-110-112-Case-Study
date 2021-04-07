@@ -35,10 +35,14 @@ h5{
 .text_images_and_results_one
 {
     background-color: turquoise;
-    width: 300px;
+    width: 450px;
     height: 300px;
     font-size: 35px;
 border-radius: 25%;
     box-shadow: 10px 5px 25px turquoise ;
     margin: 25px;
+}
+span 
+{
+    color: red;
 }
