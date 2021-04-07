@@ -19,7 +19,7 @@ hr
     color: green;
 }
 h4{
-    font-size: 35px;
+    font-size: 20px;
     margin-left: 80px;
 }
 h5{
@@ -35,7 +35,7 @@ h5{
 .text_images_and_results_one
 {
     background-color: turquoise;
-    width: 450px;
+    width: 350px;
     height: 300px;
     font-size: 35px;
 border-radius: 25%;
@@ -45,4 +45,11 @@ border-radius: 25%;
 span 
 {
     color: red;
+}
+label{
+    background-color: yellow;
+    color: red;
+width: 600px;
+font-size: medium;
+border-radius: 15px;
 }
